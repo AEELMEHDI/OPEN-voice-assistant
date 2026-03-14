@@ -3,7 +3,7 @@ import os
 import time
 
 # Choose your specific directory
-save_dir = r"C:\Users\hp\Pictures\screenshots_python"
+save_dir = r"C:\Users\hp\Pictures\screenshots_python"# Update this path to your desired directory for saving screenshots   
 
 # Make sure the folder exists
 os.makedirs(save_dir, exist_ok=True)
