@@ -1,0 +1,69 @@
+pip install -r requirements.txt
+ ================================================================================
+#
+#     ____  ____  _____ _   __
+#    / __ \/ __ \/ ___// | / /
+#   / / / / /_/ / __/ /  |/ / 
+#  / /_/ / ____/ /___/ /|  /  
+#  \____/_/   /_____/_/ |_/   
+#                             
+#   ----------------------------------
+#   OPEN - Personal Assistant (S4-2026)
+#   ----------------------------------
+#
+================================================================================
+
+
+
+
+
+
+
+
+#OPEN Commandes
+1. Commandes de Salutation et Identité
+"Hello" ou "Hi" : L'assistant te salue en retour.
+
+"Name" : EVO/OPEN confirme son nom et ton statut de "BOSS ELMEHDI".
+
+"Everyone" / "Greet everyone" / "Greet all" / "Introduce yourself" : L'assistant se présente à une audience.
+
+2. Commandes de Navigation Web
+"Google [recherche]" : Ouvre Google et lance une recherche si un sujet est précisé.
+
+"YouTube [recherche]" : Ouvre les résultats de recherche sur YouTube.
+
+"Play [nom]" : Utilise pywhatkit pour lancer directement une vidéo ou une musique sur YouTube.
+
+"Wikipedia [sujet]" : Ouvre la page Wikipedia correspondante.
+
+"Gmail" : Ouvre ta boîte de réception Google Mail.
+
+"Assist" : Ouvre simultanément DeepSeek et ChatGPT pour du support IA.
+
+"Find [recherche]" ou "Search [recherche]" : Effectue une recherche générale sur le web.
+
+"Movies" : Ouvre deux sites de streaming (Wecima et Egydead).
+
+3. Commandes Système (Logiciels & Fichiers)
+"Telegram" : Lance l'application Telegram Desktop (via le chemin spécifié).
+
+"Code" / "V S Code" / "Visual Studio Code" : Lance ton éditeur VS Code.
+
+"Drive" : Ouvre ton espace de stockage Google Drive dans le navigateur.
+
+"Screenshot" / "Screen shot" : Déclenche la fonction de capture d'écran.
+
+4. Outils de Productivité et Infos
+"Focus mode" : Déclenche un minuteur Pomodoro de 25 minutes avec affichage du décompte dans les logs.
+
+"Time" : Donne l'heure actuelle.
+
+"Date" : Donne la date du jour.
+
+"News" : Récupère et lit vocalement les 6 derniers titres d'actualité.
+
+"Weather" / "Météo" : Récupère et lit la température actuelle à Casablanca.
+
+5. Commandes de Sortie
+"Stop" / "Exit" / "Quit" / "Close" / "Terminate" / "Shutdown" / "Bye" : Arrête l'assistant et ferme la boucle d'écoute.
